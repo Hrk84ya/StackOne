@@ -2,6 +2,7 @@
 
 A machine learning model that classifies Stack Overflow questions into technology domains based on tags and metadata.
 
+Dataset link: https://www.kaggle.com/datasets/stackoverflow/stacklite
 ## Model Performance
 - **Accuracy**: 99%
 - **Classes**: 6 technology domains
